@@ -1,5 +1,5 @@
-# WISTEM Intro To Coding Workshop 2017
-An intro to coding workshop run by UWaterloo's Women in STEM
+# Twitch Intern Intro To Coding Workshop 2019
+An intro to coding workshop run by Twitch's Intern class of Summer 2019
 
 Come learn the basics of web development and get to make your own personal website in the process!
 We are starting from absolute scratch **(no experience necessary)**
@@ -10,6 +10,14 @@ We are starting from absolute scratch **(no experience necessary)**
 2. How to make your elements look pretty with CSS
 3. Hosting your website using github pages
 4. Flexbox
+
+## To use this template
+- In any of the folders, simply drag the index.html file into your browser(ex. google chrome) and it will just work
+- Anytime you make changes to the code, simply reload your browser window and your changes will show up
+- Anywhere it says "uncomment me" delete the surrounding `/*` and `*/` and see what happens
+
+## Tools we recommend
+- [vscode](https://code.visualstudio.com/) or [notepad++](https://notepad-plus-plus.org/)
 
 ### If you liked this workshop and want to learn more:
 - [Learn HTML on CodeCademy](https://www.codecademy.com/learn/learn-html)
@@ -22,5 +30,3 @@ We are starting from absolute scratch **(no experience necessary)**
 - Check out ReactJS and Bootstrap. Its a really great way to get deeper into web development
 - Check out some courses on [udemy](https://www.udemy.com/the-web-developer-bootcamp/)
 - [Codepen](https://codepen.io/) has a lot of people's creations along with the code they used to do it. It's a great way to learn neat things you can do with css, html and JavaScript 
-
-### [Don't forget to check us out on Facebook!](https://www.facebook.com/UWWiSTEM/)
